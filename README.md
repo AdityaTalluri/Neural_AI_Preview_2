@@ -13,5 +13,5 @@ An all-in-one AI web app with three tools in one page:
 > ⚠️ Security tip: don’t expose real API keys in public repos or client-side code.
 > You can check my code in my other file.
 
-> If you liked this Repository, Please put a Star and Follow me for more Codes, Games, etc.
+## If you liked this Repository, Please put a Star and Follow me for more Codes, Games, etc.
 ---
